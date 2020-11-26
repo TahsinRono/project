@@ -1,0 +1,108 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #ffffff;
+    position: relative;
+  }
+  p {font-size: 20px;
+  color: #000000;
+   ;
+}
+
+  .margin {margin-bottom: 45px;
+    margin-top: 70px;
+  }
+  .bg-1 { 
+    background-color: #ffffff; 
+    color: #000000;
+  }
+  .bg-2 { 
+    background-color: rgb(234, 241, 242);
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #b6faff;
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #103133; 
+    color: #fff;
+  }
+
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+
+  .item {
+    height: 70vh;
+    width: fit-content;
+    background-size: cover;
+  }
+
+  .item h2{
+    font-size: 5rem;
+    color: rgb(255, 239, 9);
+  }
+  .row{
+    margin-left: 8rem;
+    box-align: center;
+    box-sizing: content-box;
+    color: #bbbaba;
+  }
+  .row li{
+    color: black;
+  }
+  .row h3{
+    color: black;
+  }
+
+}
+.container h1{
+  color: white;
+}
+
+
+ /* //author */
+ul.nav-pills {
+  top: 20px;
+  position: fixed;
+}
+div.col-8 div {
+  height: 1000px;
+  margin-top: 40px;
+}
+.display-3{
+  margin-left: 10px;
+  color: #000000;
+ 
+}
+.display-4{
+  margin-top: 500px;
+  margin-left: 10px;
+  color: #000000;
+}
+.display-5{
+  margin-left: 10px;
+  color: #000000;
+  font-size: larger;
+}
+.section2{
+  font-size: xx-large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+   'Lucida Sans', Arial, sans-serif;
+   color: rgb(60, 59, 59);
+}
+.nav-link{
+  color: black;
+}
+
+.progress-bar progress-bar-striped{
+  height: 20px;
+  background-color: turquoise;
+}
